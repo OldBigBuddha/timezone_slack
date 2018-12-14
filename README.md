@@ -1,0 +1,2 @@
+# timezone_slack
+Slackで指定したTimeZoneの現在時刻もしくは指定時刻を教えてくれるBot
